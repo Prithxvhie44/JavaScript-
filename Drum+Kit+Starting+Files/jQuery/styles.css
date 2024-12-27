@@ -1,0 +1,13 @@
+body{
+    background-color: rebeccapurple;
+}
+
+.big-title{
+    font-size: 10rem;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.margin{
+    margin: 20px;
+}
